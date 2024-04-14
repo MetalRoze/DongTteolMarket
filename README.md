@@ -6,10 +6,11 @@
       <h5> 🏆 K-hackathon 11기 우수상 수상작 </h5>
 </div>
   <div>
-  <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=Android&logoColor=white">
-  <img src="https://img.shields.io/badge/JAVA-0e0f37?style=for-the-badge">
-  <img src="https://img.shields.io/badge/XML-34A853?style=for-the-badge">  
-    <a href="https://www.figma.com/file/x0VtIVK7CA5iKyFjgD5ybs/나누기-UI?type=design&mode=design&t=m4bevGLHQHWBrlXO-0" target="_blank"><img src="https://img.shields.io/badge/UI-0e0f37?style=for-the-badge&logo=riseup&logoColor=white">  </a>
+<div>
+<img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=Android&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/XML-34A853?style=for-the-badge">
+</div>
   </div>
   </div>
   <h2> 🏡 프로젝트 개요 </h2>
